@@ -1,0 +1,11 @@
+{
+  "name": "jm-local-a",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jm-local-b": "^0.0.0",
+    "lodash": "^4.17.11"
+  }
+}
